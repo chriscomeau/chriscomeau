@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Chris Comeau, an iOS/macOS Developer (Swift/Objective-C), from Montreal, Canada 🇨🇦
+
 <!--
 **chriscomeau/chriscomeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
