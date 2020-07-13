@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm Chris Comeau, an iOS/macOS Developer (Swift/Objective-C), from Montreal, Canada 🇨🇦
+![background](https://pbs.twimg.com/profile_banners/15842898/1583344596/1500x500)
+
+
+I'm **Chris Comeau**, an iOS/macOS Developer (Swift/Objective-C), from Montreal, Canada 🇨🇦
 
 <!--
 **chriscomeau/chriscomeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
