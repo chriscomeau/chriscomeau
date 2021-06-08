@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Chris Comeau**, an iOS/macOS iOS/macOS Developer for Hire, Freelancer (Swift/Objective-C).
+I'm **Chris Comeau**, an iOS/macOS Developer for Hire, Freelancer (Swift/Objective-C).
 Lover of Doritos. Dad. From Montreal, Canada.
 
 * Swift/Objective-C
