@@ -1,21 +1,12 @@
 ### Hi there 👋
 
-![background](https://pbs.twimg.com/profile_banners/15842898/1583344596/1500x500)
+![background](https://pbs.twimg.com/profile_banners/15842898/1623159876/1500x500)
 
 
-I'm **Chris Comeau**, an iOS/macOS Developer (Swift/Objective-C), from Montreal, Canada 🇨🇦
+I'm **Chris Comeau**, an iOS/macOS iOS/macOS Developer for Hire, Freelancer (Swift/Objective-C).
+Lover of Doritos. Dad. From Montreal, Canada.
 
-<!--
-**chriscomeau/chriscomeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Swift/Objective-C
+* AppKit/UIKit/SwiftUI-C
+* iOS/iPadOS/macOS/watchOS
+* RxSwift
