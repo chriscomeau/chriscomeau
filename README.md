@@ -6,4 +6,5 @@ Lover of Doritos. Dad. From Montreal, Canada.
 * Swift/Objective-C
 * AppKit/UIKit/SwiftUI-C
 * iOS/iPadOS/macOS/watchOS
-* RxSwift
+
+<a rel="me" href="https://mastodon.social/@chriscomeau">Mastodon</a>
